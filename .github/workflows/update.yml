@@ -18,7 +18,7 @@ jobs:
       with:
         python-version: '3.11'
     - name: Install all necessary packages
-      run: pip install jupyter lxml pandas requests regex numpy
+      run: pip install jupyter lxml pandas requests regex numpy dotenv
     - name: Scraping today's data
       run: jupyter nbconvert --to notebook --execute "cpi-scraper.ipynb" --stdout
     - name: Commit and push any changes
