@@ -1,4 +1,4 @@
-year_cpi,period_cpi,periodName_cpi,latest_cpi,value_cpi,footnotes_cpi,date,Inflation,year_core,period_core,periodName_core,latest_core,value_core,footnotes_core,Core inflation
+year_cpi,period_cpi,periodName_cpi,latest_cpi,value_cpi,footnotes_cpi,date,CPI,year_core,period_core,periodName_core,latest_core,value_core,footnotes_core,Core CPI
 2020,M01,January,,259.127,[{}],2020-01-01,2.599767976845202,2020,M01,January,,266.716,[{}],2.2817391837892886
 2020,M02,February,,259.25,[{}],2020-02-01,2.3413166797595197,2020,M02,February,,267.37,[{}],2.3676613601035346
 2020,M03,March,,258.076,[{}],2020-03-01,1.4940399642909163,2020,M03,March,,267.054,[{}],2.097741687598198
