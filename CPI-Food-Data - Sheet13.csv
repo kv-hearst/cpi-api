@@ -1,0 +1,120 @@
+,August
+Food,0.5
+Food at home,0.6
+Cereals and bakery products,0.1
+Cereals and cereal products,0.3
+Flour and prepared flour mixes,0.4
+Breakfast cereal(1),-0.6
+"Rice, pasta, cornmeal",0.3
+Rice(1)(2)(3),1.5
+Bakery products(1),0
+Bread(1)(2),-0.2
+White bread(1)(3),0.4
+Bread other than white(1)(3),-0.9
+"Fresh biscuits, rolls, muffins(2)",-0.5
+"Cakes, cupcakes, and cookies(1)",-0.4
+Cookies(1)(3),-1
+Fresh cakes and cupcakes(1)(3),-0.1
+Other bakery products,0.4
+"Fresh sweetrolls, coffeecakes, doughnuts(1)(3)",-2.3
+"Crackers, bread, and cracker products(3)",1
+"Frozen and refrigerated bakery products, pies, tarts, turnovers(3)",0.4
+"Meats, poultry, fish, and eggs",1
+"Meats, poultry, and fish",1.1
+Meats,1.8
+Beef and veal,2.7
+Uncooked ground beef(1),2.3
+Uncooked beef roasts(2),4
+Uncooked beef steaks(2),4.1
+Uncooked other beef and veal(1)(2),2.3
+Pork,0.2
+"Bacon, breakfast sausage, and related products(2)",1.2
+Bacon and related products(3),1.1
+Breakfast sausage and related products(2)(3),2.5
+Ham,-4.9
+"Ham, excluding canned(3)",-5.2
+Pork chops(1),-1.3
+"Other pork including roasts, steaks, and ribs(2)",1.5
+Other meats,2.2
+Frankfurters(3),-0.5
+Lunchmeats(1)(2)(3),0
+Poultry,-0.7
+Chicken(2),0.1
+Fresh whole chicken(3),-0.5
+Fresh and frozen chicken parts(3),0.3
+Other uncooked poultry including turkey(2),-2.8
+Fish and seafood,0.6
+Fresh fish and seafood(1)(2),0.3
+Processed fish and seafood(2),0.8
+Shelf stable fish and seafood(3),0.1
+Frozen fish and seafood(3),1.7
+Eggs,0
+Dairy and related products(1),0.1
+Milk(1)(2),-0.2
+Fresh whole milk(1)(3),0.1
+Fresh milk other than whole(1)(2)(3),-0.3
+Cheese and related products(1),0.4
+Ice cream and related products,0.3
+Other dairy and related products(2),-0.1
+Fruits and vegetables,1.6
+Fresh fruits and vegetables,2
+Fresh fruits,1
+Apples,3.5
+Bananas(1),2.1
+Citrus fruits(2),1.2
+"Oranges, including tangerines(3)",0.9
+Other fresh fruits(2),-0.2
+Fresh vegetables,3
+Potatoes,1.8
+Lettuce,3.5
+Tomatoes,4.5
+Other fresh vegetables,2.9
+Processed fruits and vegetables(2),-0.5
+Canned fruits and vegetables(2),0.5
+Canned fruits(2)(3),0.5
+Canned vegetables(2)(3),0.2
+Frozen fruits and vegetables(2),-0.6
+Frozen vegetables(3),-0.5
+Other processed fruits and vegetables including dried(2),-1.8
+"Dried beans, peas, and lentils(1)(2)(3)",-3
+Nonalcoholic beverages and beverage materials,0.6
+Juices and nonalcoholic drinks(2),-0.3
+Carbonated drinks,-0.3
+Frozen noncarbonated juices and drinks(1)(2),-0.2
+Nonfrozen noncarbonated juices and drinks(2),-0.7
+Beverage materials including coffee and tea(2),2.8
+Coffee,3.6
+Roasted coffee(3),4.1
+Instant coffee(1)(3),4.9
+Other beverage materials including tea(1)(2),1.5
+Other food at home,0.1
+Sugar and sweets,0.7
+Sugar and sugar substitutes,0.6
+Candy and chewing gum(2),0.7
+Other sweets(2),0.6
+Fats and oils,0.2
+Butter and margarine(2),0.2
+Butter(3),1.3
+Margarine(3),-1.6
+Salad dressing(1)(2),1.3
+Other fats and oils including peanut butter(2),0.3
+Peanut butter(1)(2)(3),-1.7
+Other foods,-0.1
+Soups,1.8
+Frozen and freeze dried prepared foods,-1.2
+Snacks,1
+"Spices, seasonings, condiments, sauces",0.4
+Salt and other seasonings and spices(2)(3),0.9
+"Olives, pickles, relishes(2)(3)",-1.2
+Sauces and gravies(2)(3),-0.1
+Other condiments(3),0.3
+Baby food and formula(1)(2),-0.9
+Other miscellaneous foods(2),-1
+Prepared salads(3)(4),1.7
+Food away from home(1),0.3
+Full service meals and snacks(1)(2),0.4
+Limited service meals and snacks(1)(2),0.1
+Food at employee sites and schools(1)(2),-0.8
+Food at elementary and secondary schools(1)(3)(5),
+Food from vending machines and mobile vendors(1)(2),0.1
+Other food away from home(1)(2),1.7
