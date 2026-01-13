@@ -1,76 +1,23 @@
-<<<<<<< HEAD
 item_name,2025-10-01 00:00:00,2025-11-01 00:00:00,change
-"All Ham (Excluding Canned Ham and Luncheon Slices), per lb.",,4.394,
 "All Pork Chops, per lb.",,4.097,
-"All soft drinks, 12 pk, 12 oz., cans, per 12 oz.",,0.549,
 "All soft drinks, per 2 liters",,2.093,
 "All uncooked ground beef, per lb.",,6.781,
-"American processed cheese, per lb.",,4.725,
 "Bacon, sliced, per lb.",,6.928,
-"Bananas, per lb.",,0.664,
 "Beans, dried, any type, all sizes, per lb.",,1.686,
 "Beef for stew, boneless, per lb.",,9.172,
 "Bread, white, pan, per lb.",,1.790,
 "Bread, whole wheat, pan, per lb.",,2.638,
 "Butter, stick, per lb.",,4.310,
-"Cheddar cheese, natural, per lb.",,5.636,
-"Chicken breast, boneless, per lb.",,4.150,
 "Chicken legs, bone-in, per lb.",,1.795,
-"Chicken, fresh, whole, per lb.",,2.044,
 "Chops, boneless, per lb.",,4.391,
-"Chops, center cut, bone-in, per lb.",,4.526,
-"Chuck roast, USDA Choice, boneless, per lb.",,9.343,
 "Coffee, 100%, ground roast, all sizes, per lb.",,9.258,
-"Cookies, chocolate chip, per lb.",,5.331,
 "Corn, canned, any style, all sizes, per lb.",,1.174,
-"Eggs, grade A, large, per doz.",,2.860,
-"Flour, white, all purpose, per lb.",,0.552,
-"Grapefruit, per lb.",,1.563,
-"Ground beef, 100% beef, per lb.",,6.540,
 "Ground beef, lean and extra lean, per lb.",,8.232,
-"Ground chuck, 100% beef, per lb.",,6.504,
 "Ham, boneless, excluding canned, per lb.",,5.462,
-"Ice cream, prepackaged, bulk, regular, per 1/2 gal.",,6.138,
 "Lemons, per lb.",,2.024,
-"Lettuce, iceberg, per lb.",,1.987,
 "Lettuce, romaine, per lb.",,3.399,
 "Milk, fresh, low-fat, reduced fat, skim, per gal.",,3.410,
 "Milk, fresh, whole, fortified, per gal.",,3.997,
-"Orange juice, frozen concentrate, 12 oz. can, per 16 oz.",,4.806,
-"Potato chips, per 16 oz.",,6.821,
-"Rice, white, long grain, uncooked, per lb.",,1.065,
 "Round roast, USDA Choice, boneless, per lb.",,8.943,
-"Spaghetti and macaroni, per lb.",,1.300,
 "Steak, round, USDA Choice, boneless, per lb.",,9.665,
 "Steak, sirloin, USDA Choice, boneless, per lb.",,13.342,
-"Sugar, white, all sizes, per lb.",,0.991,
-"Tomatoes, field grown, per lb.",,1.828,
-"Yogurt, per 8 oz.",,1.556,
-=======
-item_name,2025-08-01 00:00:00,2025-09-01 00:00:00,change
-"All Ham (Excluding Canned Ham and Luncheon Slices), per lb.",4.501,4.533,0.7109531215285498
-"All Pork Chops, per lb.",4.299,4.349,1.163061177017907
-"All soft drinks, 12 pk, 12 oz., cans, per 12 oz.",0.567,0.569,0.3527336860670197
-"All soft drinks, per 2 liters",2.208,2.234,1.1775362318840488
-"American processed cheese, per lb.",5.008,4.925,-1.6573482428115054
-"Bacon, sliced, per lb.",7.208,7.290,1.1376248612652586
-"Bananas, per lb.",0.666,0.670,0.6006006006006012
-"Beans, dried, any type, all sizes, per lb.",1.547,1.629,5.300581771170012
-"Beef for stew, boneless, per lb.",8.815,8.680,-1.5314804310833783
-"Butter, stick, per lb.",4.828,4.787,-0.8492129246064699
-"Chicken breast, boneless, per lb.",4.212,4.172,-0.9496676163342839
-"Chicken legs, bone-in, per lb.",1.797,1.796,-0.05564830272676071
-"Chops, boneless, per lb.",4.688,4.748,1.2798634812286798
-"Chops, center cut, bone-in, per lb.",4.600,4.603,0.06521739130435031
-"Corn, canned, any style, all sizes, per lb.",1.400,1.422,1.571428571428573
-"Flour, white, all purpose, per lb.",0.557,0.563,1.0771992818671263
-"Ground beef, 100% beef, per lb.",6.318,6.323,0.0791389680278693
-"Ice cream, prepackaged, bulk, regular, per 1/2 gal.",6.505,6.396,-1.6756341275941584
-"Lettuce, iceberg, per lb.",1.673,1.731,3.4668260609683235
-"Milk, fresh, low-fat, reduced fat, skim, per gal.",3.663,3.648,-0.40950040950040084
-"Milk, fresh, whole, fortified, per gal.",4.171,4.129,-1.0069527691201319
-"Oranges, Navel, per lb.",1.795,1.803,0.4456824512534823
-"Potato chips, per 16 oz.",6.751,6.971,3.2587764775588766
-"Steak, round, USDA Choice, boneless, per lb.",9.076,9.360,3.1291317761128132
-"Yogurt, per 8 oz.",1.495,1.533,2.541806020066877
->>>>>>> c0ff43e9536aaf2a3efcf85e5f30c2bc55f24ae8
