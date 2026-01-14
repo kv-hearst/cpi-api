@@ -57,4 +57,5 @@ year,period,periodName,latest,value,footnotes,date,CPI
 2025,M08,August,,323.364,[{}],2025-08-01,2.9392196249335534
 2025,M09,September,,324.368,[{}],2025-09-01,3.022699626172387
 2025,M10,October,,,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",2025-10-01,2.7899253400261115
-2025,M11,November,true,325.031,[{}],2025-11-01,2.711969385272184
+2025,M11,November,,325.031,[{}],2025-11-01,2.711969385272184
+2025,M12,December,true,326.03,[{}],2025-12-01,2.653312468710922

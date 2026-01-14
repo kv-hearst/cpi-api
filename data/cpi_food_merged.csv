@@ -57,4 +57,5 @@ year_food,period_food,periodName_food,latest_food,value_food,footnotes_food,date
 2025,M08,August,,341.208,[{}],2025-08-01,3.1949770750414386,2025,M08,August,,323.364,[{}],2.9392196249335534
 2025,M09,September,,342.054,[{}],2025-09-01,3.116521361646707,2025,M09,September,,324.368,[{}],3.022699626172387
 2025,M10,October,,,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",2025-10-01,2.8987599949461096,2025,M10,October,,,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",2.7899253400261115
-2025,M11,November,True,342.262,[{}],2025-11-01,2.629748239837837,2025,M11,November,True,325.031,[{}],2.711969385272184
+2025,M11,November,,342.262,[{}],2025-11-01,2.629748239837837,2025,M11,November,,325.031,[{}],2.711969385272184
+2025,M12,December,True,344.693,[{}],2025-12-01,3.060791255052964,2025,M12,December,True,326.03,[{}],2.653312468710922

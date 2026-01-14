@@ -57,4 +57,5 @@ year,period,periodName,latest,value,footnotes,date,Food index
 2025,M08,August,,341.208,[{}],2025-08-01,3.1949770750414386
 2025,M09,September,,342.054,[{}],2025-09-01,3.116521361646707
 2025,M10,October,,,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",2025-10-01,2.8987599949461096
-2025,M11,November,true,342.262,[{}],2025-11-01,2.629748239837837
+2025,M11,November,,342.262,[{}],2025-11-01,2.629748239837837
+2025,M12,December,true,344.693,[{}],2025-12-01,3.0607912550529637
