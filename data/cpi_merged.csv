@@ -56,6 +56,6 @@ year_cpi,period_cpi,periodName_cpi,latest_cpi,value_cpi,footnotes_cpi,date,CPI,y
 2025,M07,July,,322.132,[{}],2025-07-01,2.7318012794754543,2025,M07,July,,328.656,[{}],3.0486026845763847
 2025,M08,August,,323.364,[{}],2025-08-01,2.9392196249335534,2025,M08,August,,329.793,[{}],3.1121908210068217
 2025,M09,September,,324.368,[{}],2025-09-01,3.022699626172387,2025,M09,September,,330.542,[{}],3.0255427244533672
-2025,M10,October,,,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",2025-10-01,2.7899253400261115,2025,M10,October,,,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",2.752356320409844
+2025,M10,October,,,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",2025-10-01,,2025,M10,October,,,"[{'code': 'X', 'text': 'Data unavailable due to the 2025 lapse in appropriations'}]",
 2025,M11,November,,325.031,[{}],2025-11-01,2.711969385272184,2025,M11,November,,331.068,[{}],2.618878615332632
 2025,M12,December,True,326.03,[{}],2025-12-01,2.653312468710922,2025,M12,December,True,331.86,[{}],2.648965653766222
