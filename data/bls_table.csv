@@ -1,24 +1,23 @@
-item_name,2026-05-01 00:00:00,2026-06-01 00:00:00,change
-"All Ham (Excluding Canned Ham and Luncheon Slices), per lb.",4.448,4.461,0.29226618705035745
-"All Pork Chops, per lb.",4.389,4.336,-1.2075643654591008
-"All soft drinks, 12 pk, 12 oz., cans, per 12 oz.",0.574,0.612,6.620209059233456
-"All soft drinks, per 2 liters",2.195,2.196,0.045558086560379685
-"American processed cheese, per lb.",4.572,4.626,1.1811023622047303
-"Beef for stew, boneless, per lb.",9.003,9.304,3.3433300011107425
-"Cheddar cheese, natural, per lb.",5.685,5.960,4.837291116974501
-"Chicken breast, boneless, per lb.",4.171,4.181,0.239750659314308
-"Chicken legs, bone-in, per lb.",1.786,1.688,-5.4871220604703295
-"Corn, canned, any style, all sizes, per lb.",1.315,1.286,-2.2053231939163433
-"Ground beef, 100% beef, per lb.",6.745,6.825,1.1860637509266132
-"Ground beef, lean and extra lean, per lb.",8.624,8.651,0.31307977736548287
-"Ham, boneless, excluding canned, per lb.",5.457,5.508,0.9345794392523393
-"Lettuce, romaine, per lb.",3.624,4.021,10.954746136865335
-"Milk, fresh, whole, fortified, per gal.",4.217,4.317,2.3713540431586564
-"Orange juice, frozen concentrate, 12 oz. can, per 16 oz.",4.970,4.874,-1.9315895372233418
-"Oranges, Navel, per lb.",1.542,1.540,-0.12970168612191968
-"Potatoes, white, per lb.",0.894,0.923,3.2438478747203603
-"Round roast, USDA Choice, boneless, per lb.",8.615,8.962,4.027858386535107
-"Spaghetti and macaroni, per lb.",1.374,1.367,-0.5094614264920027
-"Steak, round, USDA Choice, boneless, per lb.",9.789,9.844,0.5618551435284475
-"Strawberries, dry pint, per 12 oz.",2.595,2.516,-3.0443159922928777
-"Sugar, white, all sizes, per lb.",1.034,1.018,-1.547388781431336
+item_name,2026-06-01 00:00:00,2026-07-01 00:00:00,change
+"All soft drinks, 12 pk, 12 oz., cans, per 12 oz.",0.612,0.606,-0.980392156862746
+"American processed cheese, per lb.",4.626,4.746,2.594033722438394
+"Bread, white, pan, per lb.",1.814,1.820,0.3307607497243663
+"Chicken breast, boneless, per lb.",4.181,4.153,-0.669696244917495
+"Chicken, fresh, whole, per lb.",2.044,2.005,-1.9080234833659564
+"Cookies, chocolate chip, per lb.",4.964,5.008,0.8863819500402819
+"Corn, canned, any style, all sizes, per lb.",1.286,1.284,-0.15552099533437028
+"Eggs, grade A, large, per doz.",2.141,2.189,2.241943017281646
+"Ground beef, 100% beef, per lb.",6.825,6.885,0.8791208791208734
+"Ground beef, lean and extra lean, per lb.",8.651,8.414,-2.739567680036991
+"Ham, boneless, excluding canned, per lb.",5.508,5.492,-0.29048656499636916
+"Lettuce, romaine, per lb.",4.021,3.469,-13.727928376025867
+"Milk, fresh, whole, fortified, per gal.",4.317,4.313,-0.09265693768821977
+"Potato chips, per 16 oz.",6.632,6.559,-1.1007237635705596
+"Potatoes, white, per lb.",0.923,0.942,2.0585048754062734
+"Rice, white, long grain, uncooked, per lb.",1.089,1.100,1.0101010101010213
+"Spaghetti and macaroni, per lb.",1.367,1.381,1.024140453547916
+"Steak, round, USDA Choice, boneless, per lb.",9.844,10.036,1.9504266558309649
+"Steak, sirloin, USDA Choice, boneless, per lb.",14.451,14.592,0.9757110234585843
+"Strawberries, dry pint, per 12 oz.",2.516,2.404,-4.451510333863279
+"Sugar, white, all sizes, per lb.",1.018,1.024,0.5893909626719063
+"Yogurt, per 8 oz.",1.587,1.553,-2.1424070573408964
